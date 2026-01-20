@@ -1,3 +1,5 @@
 streamlit
 pypdf
 langchain-google-genai
+
+App Link : https://skillmatch-euxsgfbswe3cwzv5epxjqf.streamlit.app/
