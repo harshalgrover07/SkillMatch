@@ -1,4 +1,5 @@
 streamlit
 LangChain-Google-gemini
+pypdf
 
-App link : 
+App link : skillmatch-dvpjdpkygpwce8nfpkrtnh
